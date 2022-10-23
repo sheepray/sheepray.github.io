@@ -21,11 +21,11 @@
 title: Watson Young's homepage
 email: sheepray1992@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  notebooks
+  tech dev memo
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: Sheepray1992
+github_username:  sheepray
 
 # Build settings
 theme: minima
